@@ -7,11 +7,10 @@ int main() {
 	int x;
 	x = power(2,5);
 	tri(x);
-
 }
 
 int power(int x, int n) {
-	//implement
+	//no need to include <stdio.h>
 }
 
 void tri(int size) {
